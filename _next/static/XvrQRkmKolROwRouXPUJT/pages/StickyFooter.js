@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{GJFL:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/StickyFooter",function(){return w("MjLW")}])}},[["GJFL",0,1,2,4]]]);

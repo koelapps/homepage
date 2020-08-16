@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a,b){return {"/":[a,b],"/StickyFooter":[a,b],"/index":[a,b],"/posts/first-post":[a]}}("static\u002Fchunks\u002F20b5632e0fad6ef377d82bcc21cf691bcb7a8fe8.6589caf9070030bb49e4.js","static\u002Fchunks\u002F9d07923e2a2c875bd0da4cf3f46440bf2694eeb2.4a8131c05dc56ac4f55c.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
